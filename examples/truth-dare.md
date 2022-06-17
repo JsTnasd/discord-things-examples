@@ -1,3 +1,5 @@
+## Truth or dare
+```js
 const { TruthOrDare } = require('discord-things')
 
 await TruthOrDare({ 
@@ -25,3 +27,4 @@ await TruthOrDare({
         titulo_verdad: 'True', //Title of true embed
         titulo_reto: 'Challenge' //Title of challenge embed
       })
+```
