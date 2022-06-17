@@ -1,3 +1,6 @@
+## Form 
+
+```js
 const { Forms } = require('discord-things')
 
 await Forms({ 
@@ -10,3 +13,4 @@ await Forms({
         tiempo: '300000', //Time for disabled
         preguntas: ['Country?', 'Age?'] //Array of the questions
     })
+```
