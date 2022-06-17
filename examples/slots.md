@@ -1,3 +1,6 @@
+## Slots
+
+```js
 const { Slots } = require('discord-things')
 
 await Slots({
@@ -18,3 +21,4 @@ await Slots({
         autor: 'Only <@[usuario]> can use!', //Only the author
         terminado: 'Finish!', //Embed message when the time finish
       })
+```
