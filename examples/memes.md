@@ -1,3 +1,6 @@
+## Memes
+
+```js
 const { Memes } = require('discord-things') 
 //At the moment the memes will be in english
 
@@ -18,3 +21,4 @@ await Memes({
         color: 'GREEN', //Embed color
         remover: 'You remove the button!' //Remove button action
        })
+```
