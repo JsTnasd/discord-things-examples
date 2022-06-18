@@ -16,7 +16,7 @@ await Memes({
           emoji: '▶️',
           estilo: 'DANGER'
         },
-        tiempo: '300000', //Time for disabled
+        tiempo: 300000, //Time for disabled
         autor: 'Only <@[usuario]> can use!', //Only the author
         color: 'GREEN', //Embed color
         remover: 'You remove the button!' //Remove button action
