@@ -25,7 +25,7 @@ await CoinFlip({
         autor: 'Only <@[usuario]> can use!', //Only the author
         mensaje_ganador: '<@[ganador]> you win with [resultado]', //Message when he wins
         mensaje_perdedor: '<@[perdedor]> you loose with [resultado]', //Message when he lost
-        color_ganador: 'BLACK', //Embed color when he wins
+        color_ganador: 'GREEN', //Embed color when he wins
         color_pededor: 'RED', //Embed color when he lost
         titulo_cara: 'Heads', //Title of heads embed
         titulo_cruz: 'Tails', //Title of tails embed
