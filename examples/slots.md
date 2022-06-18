@@ -17,7 +17,7 @@ await Slots({
         },
         msj_ganador: 'GG', //Win footer
         msj_perdedor: 'FF', //Loose footer
-        tiempo: '300000', //Time for disabled
+        tiempo: 300000, //Time for disabled
         autor: 'Only <@[usuario]> can use!', //Only the author
         terminado: 'Finish!', //Embed message when the time finish
       })
