@@ -21,7 +21,7 @@ await TruthOrDare({
           imagen: 'image-link', //Image of embed (optional)
           pie: 'Hello' //Footer of embed (optional)
         },
-        tiempo: '300000', 
+        tiempo: 300000, 
         lenguaje: 'es', //Language (en = spanish / en = english)
         autor: 'Only <@[usuario]> can use!',
         titulo_verdad: 'True', //Title of true embed
