@@ -5,7 +5,7 @@ const { Forms } = require('discord-things')
 
 await Forms({ 
     message: message, //Object
-    token: 'YOUR-TOKEN' //Bot token
+    token: 'YOUR-TOKEN', //Bot token
         embed: {
          titulo: 'Form', //Title of embed
          color: 'ORANGE', //Color of embed
