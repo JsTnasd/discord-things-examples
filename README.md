@@ -12,11 +12,18 @@
 - Memes 😂
 - Slot 🎰
 - Truth or dare 🎭
+- Coin flip 🪙
 
 ## Installation
 ```
 npm install discord-things
 ```
+
+## New features in version 1.0.2
+- Throw errors 
+- Coin flip function
+- Send forms to a specific channel
+- Footer and image optional
 
 ## Examples
 ```js
