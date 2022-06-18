@@ -11,7 +11,7 @@ await Forms({
          color: 'ORANGE', //Color of embed
          pie: 'Footer Form' //Footer of embed
         },
-        tiempo: '300000', //Time for disabled
+        tiempo: 300000, //Time for disabled
         preguntas: ['Country?', 'Age?', 'Why you want be mod?'], //Array of the questions
         canal: 'CHANNEL-ID' //The channel to which the form will be sent
     })
